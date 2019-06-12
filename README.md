@@ -153,7 +153,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Jun Inoue
 
 * **Staging and High-Performance Computing: Theory and Practice** (NII Shonan 2014)  
-  ([report](http://shonan.nii.ac.jp/shonan/wp-content/uploads/2011/09/No.2014-7.pdf))
+  ([report](https://shonan.nii.ac.jp/docs/No.2014-7.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/journals/shonan-reports/KiselyovSK14))  
   by Oleg Kiselyov, Yukiyoshi Kameyama and Jeremy Siek
 
@@ -172,7 +172,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Jun Inoue and Walid Taha
 
 * **Bridging the theory of staged programming languages and the practice of high-performance computing** (NII Shonan 2012)  
-  ([report](http://shonan.nii.ac.jp/shonan/wp-content/uploads/2011/09/No.2012-4.pdf))
+  ([report](https://shonan.nii.ac.jp/docs/No.2012-4.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/journals/shonan-reports/KiselyovSK12))  
   by Oleg Kiselyov, Chung-chieh Shan and Yukiyoshi Kameyama
 
